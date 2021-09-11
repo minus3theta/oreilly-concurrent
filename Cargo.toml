@@ -8,4 +8,5 @@ edition = "2018"
 [dependencies]
 anyhow = "1.0.43"
 futures = "0.3.17"
+nix = "0.22.1"
 signal-hook = "0.3.10"
